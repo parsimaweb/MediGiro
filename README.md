@@ -27,6 +27,6 @@ Transformamos las remesas en un seguro de salud directo, brindando tranquilidad 
 
 ---
 *Hackathon Submission for Ideatón Fin de Año - Powered by Stellar Chile*
-![Image_202512280252](https://github.com/user-attachments/assets/b0b7945d-5656-489f-a34c-ccc11593d5f4)
-![Image_202512280248](https://github.com/user-attachments/assets/77bd8a41-670f-4e42-bacb-46712fd5cfba)
-![Highquality_mobile_app_202512280214](https://github.com/user-attachments/assets/4d12e055-d2fb-4907-8e09-b4c50bb57a8c)
+![1](https://github.com/user-attachments/assets/76c07c4e-84e4-4a87-9f6b-018ebcc874bf)
+![2](https://github.com/user-attachments/assets/0d04917e-f836-4279-9b2c-a7ebfe519428)
+![3](https://github.com/user-attachments/assets/9f0230e2-b839-43cd-9d9a-36b9aa1decfc)
